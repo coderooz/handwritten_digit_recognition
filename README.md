@@ -17,7 +17,7 @@
 
  2. **Install dependencies:**
     ```bash
-    pip install tensorflow matplotlib numpy
+    pip install -r requirements.txt
     ```
 
  3. **Train the model:**
